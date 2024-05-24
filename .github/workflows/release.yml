@@ -19,7 +19,8 @@ jobs:
       - name: Cache dependencies
         uses: actions/cache@v3
         with:
-          path: ~/.npm
+          path: |
+            **/node_modules
           key: deps-node-modules-${{ hashFiles('**/package-lock.json') }}
 
       - name: Configure Git
