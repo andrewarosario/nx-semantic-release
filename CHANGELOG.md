@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.2.0...nx-semantic-release-v1.3.0) (2024-05-24)
+
+
+### Features
+
+* **about:** add lib ([3091bf4](https://github.com/andrewarosario/nx-semantic-release/commit/3091bf4b9ab29dbecad2a344dd111877ff20b094))
+* configure route ([603498a](https://github.com/andrewarosario/nx-semantic-release/commit/603498aa8b5a447a2c553cde106820f458de082a))
+
 # [1.2.0](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.1.0...nx-semantic-release-v1.2.0) (2024-05-24)
 
 
