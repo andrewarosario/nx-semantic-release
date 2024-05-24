@@ -1,9 +1,7 @@
 {
   "changelog": true,
-  "npm": true,
+  "npm": false,
   "github": true,
   "repositoryUrl": "https://github.com/andrewarosario/nx-semantic-release",
-  "branches": [
-    "master"
-  ]
+  "branches": ["main"]
 }
