@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.1...nx-semantic-release-v1.3.2) (2024-05-24)
+
+
+### Bug Fixes
+
+* a little fix ([06e9038](https://github.com/andrewarosario/nx-semantic-release/commit/06e9038447906daadbc7ea43d843111b51b42b9d))
+
 ## [1.3.1](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.0...nx-semantic-release-v1.3.1) (2024-05-24)
 
 
