@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-semantic-release/about": ["modules/about/src/index.ts"],
+      "about": ["modules/about/src/index.ts"],
       "home": ["modules/home/src/index.ts"]
     }
   },
