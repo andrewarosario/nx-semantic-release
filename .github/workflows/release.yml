@@ -18,6 +18,6 @@ jobs:
 
       - run: npm ci
 
-      - run: npx nx run semantic-release:semantic-release
+      - run: npx nx run nx-semantic-release:semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
