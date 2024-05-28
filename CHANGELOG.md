@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.8...nx-semantic-release-v1.4.0) (2024-05-28)
+
+
+### Features
+
+* change html ([e6543f4](https://github.com/andrewarosario/nx-semantic-release/commit/e6543f402a7942278c8e8789f8d9777de9108fc4))
+
 ## [1.3.8](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.7...nx-semantic-release-v1.3.8) (2024-05-28)
 
 
