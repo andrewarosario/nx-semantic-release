@@ -1,3 +1,10 @@
+## [1.3.8](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.7...nx-semantic-release-v1.3.8) (2024-05-28)
+
+
+### Bug Fixes
+
+* change action path ([9bef19c](https://github.com/andrewarosario/nx-semantic-release/commit/9bef19c36a43590227ec28201a1893face794df9))
+
 ## [1.3.7](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.6...nx-semantic-release-v1.3.7) (2024-05-24)
 
 
