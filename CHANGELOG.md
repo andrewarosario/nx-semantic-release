@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.4.0...nx-semantic-release-v1.5.0) (2024-05-29)
+
+
+### Features
+
+* change about component ([56eae14](https://github.com/andrewarosario/nx-semantic-release/commit/56eae143bddcb724045826b4950cd587fcd01d85))
+
 # [1.4.0](https://github.com/andrewarosario/nx-semantic-release/compare/nx-semantic-release-v1.3.8...nx-semantic-release-v1.4.0) (2024-05-28)
 
 
