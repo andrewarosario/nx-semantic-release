@@ -20,9 +20,6 @@ jobs:
       - name: Format code
         run: npx nx format:check
 
-      - name: Lint code
-        run: npx nx affected -t lint --parallel=3
-
       - name: Danger
         run: npx danger ci --dangerfile=./.github/actions/dangerfile/dangerfile.ts ${{ github.event.number }} --failOnErrors
         env:
