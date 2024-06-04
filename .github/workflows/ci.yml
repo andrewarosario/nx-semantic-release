@@ -23,7 +23,7 @@ jobs:
       - name: Danger
         run: npx danger ci --dangerfile=./.github/actions/dangerfile/dangerfile.ts ${{ github.event.number }} --failOnErrors
         env:
-          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   test:
     runs-on: ubuntu-latest
