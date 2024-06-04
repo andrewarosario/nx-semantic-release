@@ -21,7 +21,7 @@ jobs:
         run: npx nx format:check
 
       - name: Danger
-        run: npx danger ci --dangerfile=./.github/actions/dangerfile/dangerfile.ts ${{ github.event.number }} --failOnErrors
+        run: npx danger ci --dangerfile=./.github/actions/dangerfile/dangerfile.js ${{ github.event.number }} --failOnErrors
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
